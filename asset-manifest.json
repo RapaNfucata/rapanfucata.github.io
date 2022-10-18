@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dd63ab8.css",
+    "main.js": "/static/js/main.044b78e5.js",
+    "static/media/SfondoCinque.mp4": "/static/media/SfondoCinque.03a0ee1b2e18e8b77ac7.mp4",
+    "static/media/SfondoTre.mp4": "/static/media/SfondoTre.a494af32c3599cd65884.mp4",
+    "static/media/SfondoQuattro.mp4": "/static/media/SfondoQuattro.16646f50d32b976dcb45.mp4",
+    "static/media/SfondoDue.mp4": "/static/media/SfondoDue.c80a5e657dd43b77dae6.mp4",
+    "static/media/SfondoUno.mp4": "/static/media/SfondoUno.1977303b54b224d56a05.mp4",
+    "static/media/Cavas.ttf": "/static/media/Cavas.ab03f86631e7b7461b1d.ttf",
+    "static/media/foody-loader.gif": "/static/media/foody-loader.780d2afe33fad22c22a5.gif",
+    "static/media/Cavas.woff": "/static/media/Cavas.91fbcba6c90b935738d1.woff",
+    "static/media/logo.png": "/static/media/logo.e0114dfd0bddadd443fd.png",
+    "static/media/user6.png": "/static/media/user6.159b07d5b64c59be11cf.png",
+    "static/media/user7.png": "/static/media/user7.ab710b05954fef083c54.png",
+    "static/media/user2.png": "/static/media/user2.13879b8a3b18aa082d8a.png",
+    "static/media/user5.png": "/static/media/user5.a2c7d48b91fa36b35df9.png",
+    "static/media/user1.png": "/static/media/user1.4e7fca8e90cb8d9368c3.png",
+    "static/media/user4.png": "/static/media/user4.520656d6239b2ad318f7.png",
+    "static/media/user3.png": "/static/media/user3.1fc90847f6391acfc814.png",
+    "static/media/foodycoin.png": "/static/media/foodycoin.f773928867e4ec5f6039.png",
+    "static/media/metamask.png": "/static/media/metamask.92c78de6cbb4813d703c.png",
+    "index.html": "/index.html",
+    "static/media/jp.svg": "/static/media/jp.fe958929c57cbeb286c06da02f84e44f.svg",
+    "static/media/it.svg": "/static/media/it.08db2cd122d5f99494dd35c2cfb10784.svg",
+    "main.2dd63ab8.css.map": "/static/css/main.2dd63ab8.css.map",
+    "main.044b78e5.js.map": "/static/js/main.044b78e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dd63ab8.css",
+    "static/js/main.044b78e5.js"
+  ]
+}
